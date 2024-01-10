@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EOD</string>
+    <string name="empty_string"> </string>
+    <string name="daily_text_1_home_page">Goals For Today:</string>
+    <string name="daily_text_2_home_page">Goals Accomplished:</string>
+    <string name="daily_text_3_home_page">Goals For Tomorrow:</string>
+    <string name="button_enter">Enter</string>
 </resources>
